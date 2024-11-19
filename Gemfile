@@ -48,3 +48,4 @@ end
 
 gem 'httparty'
 gem 'byebug'
+gem 'rack-cors'
